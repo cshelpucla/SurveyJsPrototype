@@ -1,0 +1,34 @@
+{
+    "title": "Breakfast Survey Has Been Loaded",    
+    "pages": [
+     {
+      "name": "First",
+      "elements": [
+       {
+        "type": "radiogroup",
+        "name": "eggType",
+        "title": "What type of eggs do you prefer?",
+        "choices": [
+         {
+          "value": "overEasy",
+          "text": "Over Easy"
+         },
+         {
+          "value": "scrambled",
+          "text": "Scrambled"
+         },
+         {
+          "value": "sunnySideUp",
+          "text": "Sunny Side Up"
+         },
+         {
+          "value": "chefsSurprise",
+          "text": "Surprise Me!"
+         }
+        ]
+       }]
+     }
+    ],
+    "sendResultOnPageNext": true,
+    "showProgressBar": "top"
+   }
