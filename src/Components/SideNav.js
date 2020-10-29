@@ -32,8 +32,8 @@ export default class SideNav extends React.Component {
             key: 3
           },
           {
-            path: 'Layout',
-            name: 'Layout',
+            path: 'showtest',
+            name: 'Showtest',
             css: 'fa fa-fw fa-hammer',
             key: 4
           },

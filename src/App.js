@@ -16,6 +16,8 @@ import { LayoutContainer } from './LayoutContainer';
 import SurveyCreator from './Components/sjs/SurveyCreator';
 import BDragDropExample from './Components/DragDrop/BDragDropExample';
 import YouTubeView from './Pages/YouTubeView';
+import SurveyWrapper from './Components/sjs/SurveyWrapper'
+import SurveyWrapperSimple from './Components/sjs/SurveyWrapperSimple'
 
 function App() {
   return (
@@ -24,14 +26,15 @@ function App() {
         <NavigationBar />
         <Sidebar />
           <Switch>
-            <Route exact path="/"  component={SurveyCreator} />
-            <Route path="/about"   component={LayoutContainer} />
-            <Route path="/builder" component={SurveyCreator} />
-            <Route path="/struct"  component={TestTreeContainer} />
+            <Route exact path="/"   component={SurveyCreator} />
+            <Route path="/about"    component={LayoutContainer} />
+            <Route path="/builder"  component={SurveyCreator} />
+            <Route path="/struct"   component={TestTreeContainer} />
             <Route path="/dragdrop" component={BDragDropExample} />
-            <Route path="/youtube" component={YouTubeView} />
-            <Route path="/home"    component={SurveyCreator} />
-            <Route path="/layout"  component={LayoutContainer} />
+            <Route path="/youtube"  component={SurveyWrapper} />
+            <Route path="/home"     component={SurveyCreator} />
+            <Route path="/layout"   component={LayoutContainer} />
+            <Route path="/showtest" component={SurveyWrapperSimple} />
             <Route component={NoMatch} />
           </Switch>
     </Router> 

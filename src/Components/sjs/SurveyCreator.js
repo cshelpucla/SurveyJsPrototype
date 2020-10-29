@@ -40,9 +40,9 @@ class SurveyCreator extends Component {
   surveyCreator;
   componentDidMount() {
     let options = {  
-      showEmbededSurveyTab : false,
-      showTestSurveyTab : false,
-      showJSONEditorTab : false,      
+      showTestSurveyTab: true,
+      showEmbededSurveyTab : true,      
+      showJSONEditorTab : true,      
       showPagesToolbox: false,
       showPropertyGrid: false, 
       showOptions: false,

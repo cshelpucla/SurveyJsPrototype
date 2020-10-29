@@ -1,0 +1,113 @@
+        [
+        {
+            "type": "matrixdynamic",
+            "name": "Current Level of Function",
+            "columnLayout": "vertical",
+            "titleLocation": "hidden",
+            "minRowCount": 1,
+            "maxRowCount": 1,
+            "columns": [
+                {
+                    "name": "Administration Date",
+                    "title": "Date",
+                    "cellType": "text",
+                    "inputType": "date"
+                }, {
+                    "name": "childId",
+                    "title": "Child's ID",
+                    "cellType": "text"
+                }, {
+                    "name": "firstName",
+                    "title": "First Name",
+                    "cellType": "text"
+                },{
+                    "name": "lastName",
+                    "title": "Last Name",
+                    "cellType": "text"
+                }, {
+                    "name": "childAge",
+                    "title": "Child Age",
+                    "cellType": "text"
+                }, {
+                    "name": "email",
+                    "title": "Email",
+                    "cellType": "text",
+                    "validators": [{"type":"email"}]
+                }, {
+                    "name": "adminType",
+                    "title": "Administration Type",
+                    "cellType": "dropdown",
+                    "choices": ["Email", "In-Person", "Scoring"]
+                }, {
+                    "name": "Cognitive Function",
+                    "cellType": "comment"
+                }
+            ],
+            "choices": [1],
+            "cellType": "comment",
+            "confirmDelete": true,
+            "addRowText": "Add Date +",
+            "removeRowText": "Remove"
+        },
+        {
+            "type": "matrixdynamic",
+            "name": "Current Level of Function",
+            "columnLayout": "vertical",
+            "titleLocation": "hidden",
+            "minRowCount": 1,
+            "maxRowCount": 1,
+            "columns": [
+                {
+                    "name": "firstName",
+                    "title": "First Name",
+                    "cellType": "text"
+                },{
+                    "name": "lastName",
+                    "title": "Last Name",
+                    "cellType": "text"
+                }, {
+                    "name": "title",
+                    "title": "Professional Title",
+                    "cellType": "text"
+                }, {
+                    "name": "company",
+                    "title": "Company Name",
+                    "cellType": "text"
+                }, {
+                    "name": "email",
+                    "title": "Email",
+                    "cellType": "text",
+                    "validators": [{"type":"email"}]
+                }
+            ],
+            "choices": [1],
+            "cellType": "comment",
+            "confirmDelete": true,
+            "addRowText": "Add Date +",
+            "removeRowText": "Remove"
+        },
+        {
+            "type": "matrixdynamic",
+            "name": "Current Level of Function",
+            "columnLayout": "vertical",
+            "titleLocation": "hidden",
+            "minRowCount": 1,
+            "maxRowCount": 1,
+            "defaultRowValue": {"directions": "Read each question and answer Yes if it describes the child and No if it does not. Use your knowledge of the child as well as information obtained from parents or teachers, if available. You are required to answer every item, even if it asks about skills or behaviors typical of a child much older or younger than the child."},
+            "columns": [
+                {
+                    "name": "directions",
+                    "title": "Directions",
+                    "cellType": "comment",
+                    "isRequired": "false"
+                }
+            ],
+            "choices": [1],
+            "cellType": "comment",
+            "confirmDelete": true,
+            "addRowText": "Add Date +",
+            "removeRowText": "Remove"
+        }
+    ]
+
+

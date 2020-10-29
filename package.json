@@ -28,14 +28,14 @@
     "react-tabulator": "^0.13.2",
     "react-youtube": "^7.12.0",
     "styled-components": "^4.3.2",
-    "survey-creator": "^1.7.26",
-    "survey-react": "^1.7.26",
-    "surveyjs-widgets": "^1.7.26",
+    "survey-creator": "^1.8.0",
+    "survey-react": "^1.8.0",
+    "surveyjs-widgets": "^1.8.0",
     "uuidv4": "^6.2.3",
     "yup": "^0.29.3"
   },
   "homepage": "https://uclax-alexr-finalproject.herokuapp.com",
-  "heroku-run-build-script": true,    
+  "heroku-run-build-script": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

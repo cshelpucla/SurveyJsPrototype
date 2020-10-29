@@ -1,0 +1,122 @@
+{ "page1" : [   [ "v", "a", "u", "e"  ] ,
+                [ "X", "z", "v", "W"  ] ,                    
+                [ "G", "O", "C", "q"  ] ,    
+                [ "n", "H", "w", "m"  ] ,    
+                [ "k", "F", "r", "S"  ] ,    
+                [ "B", "I", "t", "V"  ] ,    
+                [ "r", "G", "n", "W"  ] ,    
+                [ "Y", "E", "c", "H"  ] ,    
+                [ "Z", "n", "D", "s"  ]],    
+  "page2":     [
+                [ "N",   "r",    "p",    "J"   ] ,    
+                [ "f",   "n",    "b",    "u"   ] ,    
+                [ "d",   "h",    "T",    "b"   ] ,    
+                [ "o",   "q",    "p",    "y"   ] ,    
+                [ "H",   "e",    "s",    "k"   ] ,    
+                [ "c",   "b",    "d",    "O"   ] ,    
+                [ "dod", "bod",  "dog",  "bog" ] ,    
+                [ "ball","boll", "doll", "dall"] ,    
+                [ "iff", "if",   "fi",   "uf"  ] ],   
+  "page3":     [
+                [ "home",  "hoem",  "hom",  "homm"   ] ,    
+                [ "an",    "and",   "dan",  "adn"   ] ,    
+                [ "blak",  "blac",  "balck","black"   ] ,    
+                [ "wit",   "wite",  "white","withe"   ] ,    
+                [ "az",    "as",    "os",   "sa"   ] ,    
+                [ "shurt", "short", "shirt","shert"   ] ,    
+                [ "first", "ferst", "first","furst" ] ,    
+                [ "uver",  "ovor",  "over", "ower"] ,    
+                [ "reech", "reach", "reash","wreach"  ]   
+               ],
+  "page4":     [
+                [ "rat.png", "dog",  "rat",  "sit",  "net"   ] ,    
+                [ "pig.png", "red",  "pen",  "man",  "pig"   ] ,    
+                [ "bed.png", "met",  "win",  "bed",  "get"   ] ,    
+                [ "ham.png", "ham",  "bad",  "tub",  "hid"   ] ,    
+                [ "bag.png", "cot",  "ran",  "sat",  "sa"    ]     
+               ],
+  "page5":     [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"]     
+               ],
+  "page6":     [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page7":     [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page8":     [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page9":     [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page10":    [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page11":    [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page12":    [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page13":    [
+                [ "image_part_001.png", "image_part_002.png",  "image_part_003.png",  "image_part_004.png"] ,    
+                [ "image_part_005.png", "image_part_006.png",  "image_part_007.png",  "image_part_008.png"] ,    
+                [ "image_part_009.png", "image_part_010.png",  "image_part_011.png",  "image_part_012.png"] ,    
+                [ "image_part_013.png", "image_part_014.png",  "image_part_015.png",  "image_part_016.png"]     
+               ],
+  "page14":    [
+                [ "image_part_001.png", "dog","rat","sit", "net"] ,    
+                [ "image_part_002.png", "dog","rat","sit", "net"] ,    
+                [ "image_part_003.png", "dog","rat","sit", "net"] ,    
+                [ "image_part_004.png", "dog","rat","sit", "net"]     
+               ],
+  "page15":    [
+                [ "image_part_005.png", "dog","rat","sit", "net"] ,    
+                [ "image_part_006.png", "dog","rat","sit", "net"] ,    
+                [ "image_part_007.png", "dog","rat","sit", "net"] ,    
+                [ "image_part_008.png", "dog","rat","sit", "net"]     
+               ],
+  "page16":    [
+                [ "What is this?",             "image_part_005.png", "dog","rat","sit", "net"] ,    
+                [ "What is the girl doing?",   "image_part_006.png", "dog","rat","sit", "net"] ,    
+                [ "What is the boy doing?",    "image_part_006.png", "dog","rat","sit", "net"] ,    
+                [ "What is the king wearing?", "image_part_006.png", "dog","rat","sit", "net"] ,    
+                [ "What is hot?",              "image_part_006.png", "dog","rat","sit", "net"] ,    
+                [ "What can fly?",             "image_part_006.png", "dog","rat","sit", "net"] ,     
+                [ "What can run?",             "image_part_006.png", "dog","rat","sit", "net"] ,    
+                [ "Which can you eat?",        "image_part_006.png", "dog","rat","sit", "net"]     
+                
+               ],
+  "page17":    [
+                [ "https://www.youtube.com/watch?v=mURz_kJp9js", "dog","rat","sit", "net"] ,    
+                [ "https://www.youtube.com/watch?v=mURz_kJp9js", "dog","rat","sit", "net"] ,    
+                [ "https://www.youtube.com/watch?v=mURz_kJp9js", "dog","rat","sit", "net"] ,    
+                [ "https://www.youtube.com/watch?v=mURz_kJp9js", "dog","rat","sit", "net"]     
+               ]
+           
+           
+           
+}   
